@@ -1,4 +1,4 @@
-# cafe.cookiecops.repl.co
+# cafe.cookieit.repl.co
 ## how 2 make?
 ### Note : description
 ### use Google account-> use github account -> use git to finish work at my PC -> use replit account by github -> import Web repl by repo -> make always on to hosting.
